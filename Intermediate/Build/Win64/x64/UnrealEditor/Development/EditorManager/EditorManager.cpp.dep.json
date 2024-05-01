@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\project\\test5_4\\plugins\\editormanager\\source\\editormanager\\private\\editormanager.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\project\\test5_4\\intermediate\\build\\win64\\x64\\test5_4editor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\project\\test5_4\\plugins\\editormanager\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\editormanager\\definitions.editormanager.h",
+            "d:\\project\\test5_4\\plugins\\editormanager\\source\\editormanager\\public\\editormanager.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

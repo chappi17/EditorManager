@@ -1,0 +1,42 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "EditorManager",
+	"Description": "",
+	"Category": "Other",
+	"CreatedBy": "",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "EditorManager",
+			"Type": "Runtime",
+			"LoadingPhase": "PreDefault"
+		}
+	],
+"Plugins": [
+  {
+    "Name": "EditorScriptingUtilities",
+    "Enabled": true
+  },
+	{
+		"Name": "Niagara",
+		"Enabled": true
+	},
+	{
+    "Name": "EnhancedInput",
+    "Enabled": true
+  },
+	{
+    "Name": "IKRig",
+    "Enabled": true
+  }
+]
+}

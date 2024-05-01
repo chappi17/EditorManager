@@ -1,0 +1,11 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.EditorManager.cpp.obj": [
+			"AssetActionEditor.gen.cpp.obj",
+			"EditorManager.init.gen.cpp.obj",
+			"AssetActionEditor.cpp.obj",
+			"EditorManager.cpp.obj"
+		]
+	}
+}

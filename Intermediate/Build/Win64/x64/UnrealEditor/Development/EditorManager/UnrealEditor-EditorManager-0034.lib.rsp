@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-EditorManager-0034.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Project\Test5_4\Intermediate\Build\Win64\x64\Test5_4Editor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"D:\Project\Test5_4\Plugins\EditorManager\Intermediate\Build\Win64\x64\UnrealEditor\Development\EditorManager\Module.EditorManager.cpp.obj"
+"D:\Project\Test5_4\Plugins\EditorManager\Intermediate\Build\Win64\x64\UnrealEditor\Development\EditorManager\EditorManager.cpp.obj"
+"D:\Project\Test5_4\Plugins\EditorManager\Intermediate\Build\Win64\x64\UnrealEditor\Development\EditorManager\AssetActionEditor.cpp.obj"
+"D:\Project\Test5_4\Plugins\EditorManager\Intermediate\Build\Win64\x64\UnrealEditor\Development\EditorManager\FacePlayer.cpp.obj"
+"D:\Project\Test5_4\Plugins\EditorManager\Intermediate\Build\Win64\x64\UnrealEditor\Development\EditorManager\Default.rc2.res"
+/OUT:"D:\Project\Test5_4\Plugins\EditorManager\Intermediate\Build\Win64\x64\UnrealEditor\Development\EditorManager\UnrealEditor-EditorManager-0034.lib"
