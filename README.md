@@ -6,5 +6,5 @@ And make it easy to use Notify and DialogMsg.
 
 Header is also contain DrawDebugHelpers, Kismet/GameplayStatics, Kismet/KismetMathLibrary.
 
-Module must add "EditorManager","Slate", "SlateCore" in 	PublicDependencyModuleNames.AddRange and have to include "EditorManager/GlobalDebugHeader.h"
+Module must add "EditorManager","Slate", "SlateCore" in 	PublicDependencyModuleNames.AddRange and cpp file for using macro,  You must include "EditorManager/GlobalDebugHeader.h"
 
